@@ -202,7 +202,7 @@ export const location = [
 export const teamp =[
   {
     list: "50",
-    cover: require("../images/car3.jpg"),
+    cover: require("../images/Team/t1.jpg"),
     
     address: "Liverpool, Canada",
     name: "Sargam S. Singh",
@@ -210,35 +210,35 @@ export const teamp =[
   },
   {
     list: "70",
-    cover: require("../images/car3.jpg"),
+    cover: require("../images/Team/t2.jpg"),
     address: "Montreal, Canada",
     name: "Harijeet M. Siller",
     icon: [<i class='fa-brands fa-facebook-f'></i>, <i class='fa-brands fa-linkedin'></i>, <i class='fa-brands fa-twitter'></i>, <i class='fa-brands fa-instagram'></i>],
   },
   {
     list: "80",
-    cover: require("../images/car3.jpg"),
+    cover: require("../images/Team/t3.jpg"),
     address: "Denever, USA",
     name: "Anna K. Young",
     icon: [<i class='fa-brands fa-facebook-f'></i>, <i class='fa-brands fa-linkedin'></i>, <i class='fa-brands fa-twitter'></i>, <i class='fa-brands fa-instagram'></i>],
   },
   {
     list: "51",
-    cover: require("../images/car3.jpg"),
+    cover: require("../images/Team/t1.jpg"),
     address: "2272 Briarwood Drive",
     name: "Michael P. Grimaldo",
     icon: [<i class='fa-brands fa-facebook-f'></i>, <i class='fa-brands fa-linkedin'></i>, <i class='fa-brands fa-twitter'></i>, <i class='fa-brands fa-instagram'></i>],
   },
   {
     list: "42",
-    cover: require("../images/car3.jpg"),
+    cover: require("../images/Team/t2.jpg"),
     address: "2272 Briarwood Drive",
     name: "Michael P. Grimaldo",
     icon: [<i class='fa-brands fa-facebook-f'></i>, <i class='fa-brands fa-linkedin'></i>, <i class='fa-brands fa-twitter'></i>, <i class='fa-brands fa-instagram'></i>],
   },
   {
     list: "38",
-    cover: require("../images/car3.jpg"),
+    cover: require("../images/Team/t3.jpg"),
     address: "Montreal, USA",
     name: "Adam K. Jollio",
     icon: [<i class='fa-brands fa-facebook-f'></i>, <i class='fa-brands fa-linkedin'></i>, <i class='fa-brands fa-twitter'></i>, <i class='fa-brands fa-instagram'></i>],

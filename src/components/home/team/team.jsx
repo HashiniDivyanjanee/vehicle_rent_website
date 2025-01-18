@@ -1,6 +1,7 @@
 import React from "react";
 import Heading from "../../common/heading";
 import { teamp } from "../../data/data";
+import "./team.css"
 const team = () => {
   return (
     <>
@@ -33,7 +34,7 @@ const team = () => {
                         <i className="fa fa-envelope"></i>
                         Message
                       </button>
-                      <button className="btn">
+                      <button className="btn4">
                         <i className="fa fa-phone-alt"></i>
                       </button>
                     </div>
