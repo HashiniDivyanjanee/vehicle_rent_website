@@ -6,6 +6,7 @@ import Awards from '../home/awards/awards'
 import Location from '../home/location/location'
 import Team from '../home/team/team'
 
+
 const home = () => {
   return (
    <>

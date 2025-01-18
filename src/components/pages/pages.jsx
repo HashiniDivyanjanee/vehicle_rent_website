@@ -2,6 +2,7 @@ import React from "react";
 import Header from "../common/header/header";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Home from "../home/home"
+import Footer from '../common/footer/footer'
 const Pages = () => {
   return (
     <>
@@ -15,6 +16,7 @@ const Pages = () => {
           <Route path="/pricing" element={<div>Pricing</div>} />
           <Route path="/contact" element={<div>Contact</div>} />
         </Routes>
+        <Footer />
       </Router>
     </>
   );
