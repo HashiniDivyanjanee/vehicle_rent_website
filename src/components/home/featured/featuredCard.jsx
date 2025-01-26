@@ -6,7 +6,7 @@ const featuredCard = () => {
     <>
     <div className="content grid5 mtop">
         {
-            <div className='content grid5 mtop'>
+            <div className='container grid5 mtop'>
             {featured.map((items, index) => (
               <div className='box' key={index}>
                 <img src={items.cover} alt='' />
